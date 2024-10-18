@@ -1,6 +1,6 @@
 # Service-Polymorphism
 
-Service Polymorphism: Enhancing Web Service Performance Perception by Serving Clients Dissimilarly
+Service Polymorphism: Tailoring Service Provisioning to Mitigate Long-tail Web Service Performance
 
 # Requirement
 - Android 10 Mobile Phone with normal CPU and Memory configuration. Root permission is not required.
@@ -12,7 +12,6 @@ Service Polymorphism: Enhancing Web Service Performance Perception by Serving Cl
  
         TranslationService ws = new TranslationService(this.getApplicationContext()); // create a Polymorphic Service
         ws.Input("Hello, World", "es"); // assign the Polymorphic Services invoke parameters
-        ws.init("Lat_Opt"); // initiate the Polymorphic Services
 
         ws.exec(); // invoke Polymorphic Services 
 
