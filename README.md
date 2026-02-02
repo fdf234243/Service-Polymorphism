@@ -1,7 +1,6 @@
 # Service-Polymorphism
 
-Service Polymorphism: Tailoring Service Provisioning to Mitigate Long-tail Web Service Performance
-
+Service Polymorphism: Tailoring Web Service Provisioning to Mitigate Long-tail Performance
 # Requirement
 - Android 10 Mobile Phone with normal CPU and Memory configuration. Root permission is not required.
 - WiFi Router that supports to flash OpenWRT
